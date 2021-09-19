@@ -1,0 +1,2 @@
+[web]
+10.182.0.4 ansible_ssh_pass=1234 ansible_ssh_user=dkumar_270985
